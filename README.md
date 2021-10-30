@@ -1,8 +1,5 @@
 <h1 align="center"> Hola Mundo! 👋🏽 Soy Cristian </h1>
 
-<h3 align="center">
-    Desarrollador Full-Stack
-</h3>
 <p align="center">
 <img alt="presentation gif" src="./assets/Github.gif" width="100%" />
 </p>
