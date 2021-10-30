@@ -4,7 +4,7 @@
     Desarrollador Full-Stack
 </h3>
 <p align="center">
-<img alt="presentation gif" src="./assets/Github.gif" width="90%" />
+<img alt="presentation gif" src="./assets/Github.gif" width="100%" />
 </p>
 <br/>
 <h2 align="center">
