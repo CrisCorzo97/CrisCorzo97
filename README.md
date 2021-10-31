@@ -41,8 +41,7 @@
 </h2>
 <br/>
 <p align="center">
-    <a href="mailto:crcorzo04@hotmail.com"><img src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/gmail.svg" width="50px" alt="mail"></a> &nbsp; &nbsp;
+    <a href="mailto:crcorzo04@hotmail.com"><img src="./assets/Outlook.png" width="50px" alt="mail"></a> &nbsp; &nbsp;
     <a href="https://github.com/criscorzo97"><img src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/github.svg" width="50px" alt="mail"></a> &nbsp; &nbsp;
     <a href="https://in.linkedin.com/in/cristiancorzo"><img src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/linkedin.svg" width="50px" alt="LinkedIn"></a> &nbsp; &nbsp;
 </p>
-
