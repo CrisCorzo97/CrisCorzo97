@@ -5,7 +5,7 @@
 </p>
 <br/>
 
-<h2>
+<h2 align="center">
   Algo acerca de mi
 </h2>
 
